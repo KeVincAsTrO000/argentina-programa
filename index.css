@@ -1,0 +1,39 @@
+body {
+    font-family:sans-serif;
+  }
+  
+  .articulo1{
+    padding: 2rem;
+    border-radius: 1rem;
+    color: black;
+    box-shadow: 1px 1px 6px grey;
+  }
+  .articulo1 h1{
+    font-size:32px;
+  }
+  .articulo1 h4 a{
+    text-decoration:none;
+  }
+  .importante{
+    border: none;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: blue;
+    box-shadow: 1px 1px 1px black;
+    cursor:pointer;
+    color:white;
+    font-weight:bold;
+  }
+  .sin{
+    border: none;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: rgb(250, 246, 246);
+    box-shadow: 1px 1px 1px grey;
+    cursor:pointer;
+    color:black;
+    font-weight:bold;
+  }
+  
